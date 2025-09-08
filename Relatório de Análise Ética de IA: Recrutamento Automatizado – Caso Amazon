@@ -1,0 +1,35 @@
+Relatório de Análise Ética de IA: Recrutamento Automatizado – Caso Amazon
+1. Introdução
+O presente relatório analisa o dilema ético do uso de Inteligência Artificial (IA) em sistemas de recrutamento, utilizando como estudo de caso o sistema da Amazon, desativado em 2018 após identificar viés de gênero. A análise é baseada no framework de ética em computação e responsabilidade social em IA.
+2. Contexto do Caso
+Em 2018, a Amazon desenvolveu um sistema de recrutamento automatizado para analisar currículos de candidatos a vagas de engenharia. O algoritmo foi treinado com dados históricos predominantemente masculinos. Como resultado, ele classificava mulheres de forma desvantajosa, reproduzindo padrões discriminatórios.
+3. Aplicação do Framework Ético
+3.1 Viés e Justiça
+•	Viés de dados: a base de treinamento refletia predominância masculina.
+•	Viés de algoritmo: o modelo aprendeu padrões discriminatórios, penalizando mulheres.
+•	Grupos afetados: mulheres candidatas, especialmente em áreas de engenharia.
+•	Distribuição de benefícios e riscos: injusta, favorecendo homens e desfavorecendo mulheres.
+3.2 Transparência e Explicabilidade
+•	O sistema era uma black box.
+•	Não havia explicações sobre critérios de decisão.
+•	Candidatos não conseguiam compreender por que foram rejeitados.
+3.3 Impacto Social e Direitos
+•	Mercado de trabalho: exclusão de candidatas qualificadas.
+•	Autonomia: decisões humanas substituídas por decisões automatizadas sem justificativa.
+•	Direitos fundamentais: risco de violação de igualdade de oportunidades e diversidade.
+•	Legislação aplicável: CLT, LGPD, normas internacionais de direitos humanos.
+3.4 Responsabilidade e Governança
+•	Práticas alternativas: revisão de dados de treinamento, métricas de fairness.
+•	Princípios Ethical AI by Design: inclusão de diversidade nos dados, avaliação contínua de impacto social.
+•	Leis e regulações: LGPD (privacidade de dados), normas de igualdade no trabalho.
+4. Posicionamento
+O sistema de recrutamento baseado em IA deve ser redesenhado, pois a tecnologia pode ser útil quando aplicada de forma ética e responsável. O banimento não é necessário se houver melhoria nos processos de desenvolvimento e governança.
+5. Recomendações Práticas
+1.	Auditoria contínua de viés: monitoramento de desigualdades de gênero e outros grupos protegidos.
+2.	Transparência e explicabilidade: permitir que candidatos entendam critérios e resultados.
+3.	Diversidade nos dados: incluir exemplos equilibrados de todos os grupos no treinamento.
+6. Conclusão
+O caso demonstra que a IA pode amplificar preconceitos existentes se não houver supervisão ética. Com auditoria, transparência e diversidade nos dados, os sistemas de recrutamento podem se tornar ferramentas justas e eficientes, promovendo inclusão e igualdade no mercado de trabalho.
+________________________________________
+Autor: Carlos Vinícios Gonçalves Dias
+Data: 05/09/2025
